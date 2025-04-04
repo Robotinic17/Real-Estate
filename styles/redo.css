@@ -1054,11 +1054,11 @@ footer img {
     }
 
     .foot a{
-        font-size: 10px;
+        font-size: 8px;
     }
 
     .foot a:hover{
-        font-size: 10px;
+        font-size: 8px;
     }
 
     .cop{
@@ -1104,17 +1104,14 @@ footer img {
         font-size: 11px;
     }
     .foot a{
-        font-size: 9px;
+        font-size: 6px;
     }
 
     .foot a:hover{
-        font-size: 9px;
+        font-size: 6px;
     }
 }
 @media screen and (max-width: 325px) {
-    .side-nav{
-        left: 180px;
-    }
 
     .ag1{
         font-size: 3vw;

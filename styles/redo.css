@@ -28,7 +28,7 @@ body{
 }
 
 header{
-    background-image: url(C:/Users/Administrator/Desktop/redo.pgm/media/BG.jpg);
+    background-image: url(https://res.cloudinary.com/doxxgebme/image/upload/v1735165299/BG_h3tewr.jpg);
     height: 44vw;/*header height not image height*/
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -271,7 +271,7 @@ video{
     left: 18vw;
     top: 0vw;
     cursor: pointer;
-    background-image: url(C:/Users/Administrator/Desktop/redo.pgm/media/tour_bg2.jpg);
+    background-image: url(https://res.cloudinary.com/doxxgebme/image/upload/v1735165318/tour_bg2_ag0d0k.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }

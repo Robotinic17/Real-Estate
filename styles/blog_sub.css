@@ -503,11 +503,11 @@ footer img {
     }
 
     .foot a{
-        font-size: 10px;
+        font-size: 8px;
     }
 
     .foot a:hover{
-        font-size: 11px;
+        font-size: 8px;
     }
 
     .cop{
@@ -517,9 +517,6 @@ footer img {
 
 
 @media screen and (max-width: 380px) {
-    .side-nav{
-        left: 225px;
-    }
 
     .last-div div:nth-child(2) img {
         height: 12em;
@@ -541,11 +538,11 @@ footer img {
     }
 
     .foot a{
-        font-size: 9px;
+        font-size: 6px;
     }
 
     .foot a:hover{
-        font-size: 9px;
+        font-size: 6px;
     }
 }
 
